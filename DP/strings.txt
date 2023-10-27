@@ -1,0 +1,2 @@
+CONCEPT: STRING DIVISION 
+https://www.interviewbit.com/problems/power-of-2/
