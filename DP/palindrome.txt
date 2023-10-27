@@ -1,0 +1,4 @@
+Nth palindrome binary string problem 
+https://www.youtube.com/watch?v=QYoWR8hDCyQ&t=1376s
+
+https://www.interviewbit.com/problems/palindromic-binary-representation/
