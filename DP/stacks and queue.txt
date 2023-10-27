@@ -1,0 +1,13 @@
+https://practice.geeksforgeeks.org/contest/gfg-weekly-coding-contest-109/problems
+
+Concept: Stacks and Queues
+https://www.interviewbit.com/problems/first-non-repeating-character-in-a-stream-of-characters/
+
+
+WHENEVER THERE ARE ALPHABETS , THERE IS A POSSIBILITY OF USING AN ARRAY OF 26 SIZE
+
+
+
+https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/solutions/4169714/using-priority-queue-very-simple-and-easy-to-understand-solutio
+
+https://www.interviewbit.com/problems/sliding-window-maximum/ This problem is same as left special value but queue version of the problem
