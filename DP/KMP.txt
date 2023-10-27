@@ -1,0 +1,7 @@
+KMP ALOGRITHM BASED QUESTIONS
+Minimum characterst that you  need to add inorder to make a palindrome
+
+
+https://www.interviewbit.com/problems/convert-to-palindrome/
+
+https://www.interviewbit.com/problems/longest-palindromic-substring/
