@@ -10,4 +10,11 @@ https://www.interviewbit.com/problems/capacity-to-ship-packages-within-b-days/
 https://www.interviewbit.com/problems/allocate-books/
 
 
+https://leetcode.com/problems/number-of-flowers-in-full-bloom/submissions/?envType=daily-question&envId=2023-10-11
+
+https://www.interviewbit.com/problems/matrix-median/hints/
+
+
+
+
 
