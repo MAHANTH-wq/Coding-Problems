@@ -1,0 +1,9 @@
+https://www.interviewbit.com/problems/different-bits-sum-pairwise/
+
+
+https://www.interviewbit.com/problems/min-xor-value/hints/ This concept is good where it says C lies between A and B then A XOR C and C XOR B  both are less than AXOR B but don’t know which one is less among A XOR C and C XOR B given A<=C<=B
+
+
+https://www.interviewbit.com/problems/single-number-ii/
+
+https://www.interviewbit.com/problems/xor-ing-the-subarrays/
