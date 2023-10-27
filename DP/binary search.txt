@@ -1,3 +1,13 @@
 
 https://www.interviewbit.com/problems/woodcutting-made-easy
 
+Same concept for these two problems, buckets capacity intuition
+
+https://www.interviewbit.com/problems/woodcutting-made-easy
+
+https://www.interviewbit.com/problems/capacity-to-ship-packages-within-b-days/
+
+https://www.interviewbit.com/problems/allocate-books/
+
+
+
