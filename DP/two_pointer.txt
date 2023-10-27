@@ -1,0 +1,8 @@
+Concept: Two pointers
+https://www.interviewbit.com/problems/counting-subarrays/
+
+https://www.interviewbit.com/problems/subarrays-with-distinct-integers/hints/
+
+https://www.interviewbit.com/problems/array-3-pointers/
+
+https://www.interviewbit.com/problems/container-with-most-water/
